@@ -14,11 +14,11 @@ The data analysis project centers on Google  applications on Play Store, aiming 
 
 ## TOOLS
 - Microsoft Excel
--Microsoft Power BI 
-  -[LINK TO DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYzJhYTNlMmQtNzc5Ni00ZjgwLWIyZjQtMWY1NmJkOGMzMmEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
--Tableau 
-  -[LINK TO DASHBOARD](https://public.tableau.com/app/profile/kehinde.alamutu/viz/GoogleappsonPlaystore/Dashboard1?publish=yes)
--SQL
+- Microsoft Power BI 
+  - [LINK TO DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYzJhYTNlMmQtNzc5Ni00ZjgwLWIyZjQtMWY1NmJkOGMzMmEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- Tableau 
+  - [LINK TO DASHBOARD](https://public.tableau.com/app/profile/kehinde.alamutu/viz/GoogleappsonPlaystore/Dashboard1?publish=yes)
+- SQL
 
 ## TYPE OF ANALYSIS DONE
 
